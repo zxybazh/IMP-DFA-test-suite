@@ -1,0 +1,3 @@
+decl x,y in
+x := Odd;
+y := Even;

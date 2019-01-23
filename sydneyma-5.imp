@@ -1,0 +1,12 @@
+decl x, y in 
+
+while (1) {
+  x := 0;
+  if (1) {
+    y := 0;
+  }
+  else {
+    y := 1;
+  }
+}
+x := x + y;

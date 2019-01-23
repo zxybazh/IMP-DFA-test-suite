@@ -1,0 +1,17 @@
+1 : w = Bottom, x = Bottom, y = Bottom, z = Bottom
+2 : w = Bottom, x = Bottom, y = Bottom, z = Bottom
+3 : w = Bottom, x = Bottom, y = Bottom, z = Bottom
+4 : w = Bottom, x = Bottom, y = Bottom, z = Bottom
+5 : w = Bottom, x = Bottom, y = Bottom, z = Bottom
+6 : w = Bottom, x = Bottom, y = Bottom, z = Bottom
+7 : w = Top, x = Bottom, y = Bottom, z = Bottom
+8 : w = Top, x = Bottom, y = Bottom, z = Bottom
+9 : w = Top, x = Bottom, y = Bottom, z = Bottom
+10 : w = Top, x = Even, y = Bottom, z = Bottom
+11 : w = Top, x = Even, y = Bottom, z = Bottom
+12 : w = Top, x = Even, y = Bottom, z = Bottom
+13 : w = Top, x = Even, y = Odd, z = Bottom
+14 : w = Top, x = Even, y = Odd, z = Bottom
+15 : w = Top, x = Even, y = Odd, z = Bottom
+16 : w = Top, x = Even, y = Odd, z = Bottom
+17 : w = Top, w = Even, y = Odd, z = Bottom

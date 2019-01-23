@@ -1,0 +1,9 @@
+0 : a = Even, b = Top, c = Top, w = Even, x = Even, y = Top, z = Top
+13 : a = Even, b = Even, c = Even, w = Even, x = Even, y = Even, z = Even
+16 : a = Even, b = Even, c = Even, w = Even, x = Even, y = Odd, z = Even
+19 : a = Even, b = Even, c = Even, w = Even, x = Even, y = Odd, z = Top
+20 : a = Even, b = Even, c = Even, w = Even, x = Even, y = Even, z = Even
+34 : a = Even, b = Top, c = Top, w = Even, x = Even, y = Top, z = Top
+37 : a = Even, b = Odd, c = Top, w = Even, x = Even, y = Top, z = Top
+40 : a = Even, b = Odd, c = Top, w = Even, x = Even, y = Top, z = Top
+41 : a = Even, b = Top, c = Top, w = Even, x = Even, y = Top, z = Top

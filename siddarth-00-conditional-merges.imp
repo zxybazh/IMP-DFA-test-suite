@@ -1,0 +1,41 @@
+decl x, y, z, result in
+
+// If-Else - Merge disparate type values
+if ({0, 1}) {
+	x := 1;
+} else {
+	x := 2;
+}
+print x;
+
+// If-Else - Merge same type values
+if ({0, 1}) {
+	y := 1;
+} else {
+	y := 3;
+}
+print y;
+
+// If-Else - Merge unknown type values
+if ({0, 1}) {
+	z := x + y;
+} else {
+	z := x * y;
+}
+print z;
+
+// Clear Top value
+result := (2 * (x + y - z)) + 1;
+
+// If-Else - Implicit empty else
+// - Checks merging re-assignment.
+z := 2;
+if ({0, 1}) {
+	z := 1;
+}
+z := z * result;
+
+// End-on-conditional
+if ({0, 1}) {
+	z := 1;
+}

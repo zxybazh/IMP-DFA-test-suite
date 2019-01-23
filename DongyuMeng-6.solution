@@ -1,0 +1,8 @@
+7 : w = Even, x = Bottom, y = Bottom, z = Bottom
+10 : w = Even, x = Odd, y = Bottom, z = Bottom
+13 : w = Even, x = Odd, y = Odd, z = Bottom
+16 : w = Even, x = Odd, y = Odd, z = Even
+21 : w = Even, x = Even, y = Odd, z = Even
+31 : w = Even, x = Even, y = Odd, z = Even
+36 : w = Even, x = Even, y = Odd, z = Even
+43 : w = Odd, x = Even, y = Odd, z = Even

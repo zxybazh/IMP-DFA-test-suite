@@ -1,0 +1,3 @@
+decl x,y in
+x := 11;
+y := y + x;

@@ -1,0 +1,5 @@
+decl w,x,y,z in
+w := Top;
+x := Even;
+y := Odd;
+z := Bottom;

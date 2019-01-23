@@ -1,0 +1,10 @@
+decl x, y in
+x := 2;
+y := 3;
+if (x < 6) {
+  x := x * y;
+} else {
+  x := x * 2;
+  y := 2;
+}
+print(x);

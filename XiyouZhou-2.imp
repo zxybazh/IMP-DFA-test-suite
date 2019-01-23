@@ -1,0 +1,25 @@
+decl x, y, z in
+x := 10;
+y := 21;
+z := x + y;
+z := x - y;
+z := x * y;
+z := x / y;
+x := 10;
+y := 20;
+z := x + y;
+z := x - y;
+z := x * y;
+z := x / y;
+x := 11;
+y := 20;
+z := x + y;
+z := x - y;
+z := x * y;
+z := x / y;
+x := 11;
+y := 21;
+z := x + y;
+z := x - y;
+z := x * y;
+z := x / y;

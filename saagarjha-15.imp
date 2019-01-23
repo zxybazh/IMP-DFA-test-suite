@@ -1,0 +1,9 @@
+decl x, y in
+x := 1;
+y := 0;
+if (y) {
+	x := x + 2;
+	while (10 < x) {
+		y := 1;
+	}
+}

@@ -1,0 +1,17 @@
+0 : result = Odd, x = Top, y = Even, z = Top
+8 : result = Even, x = Odd, y = Even, z = Even
+9 : result = Even, x = Top, y = Even, z = Even
+11 : result = Even, x = Top, y = Even, z = Even
+15 : result = Even, x = Top, y = Even, z = Even
+16 : result = Even, x = Top, y = Even, z = Even
+18 : result = Even, x = Top, y = Even, z = Even
+24 : result = Even, x = Top, y = Even, z = Top
+25 : result = Even, x = Top, y = Even, z = Top
+27 : result = Even, x = Top, y = Even, z = Top
+38 : result = Odd, x = Top, y = Even, z = Top
+41 : result = Odd, x = Top, y = Even, z = Even
+45 : result = Odd, x = Top, y = Even, z = Odd
+46 : result = Odd, x = Top, y = Even, z = Top
+51 : result = Odd, x = Top, y = Even, z = Top
+55 : result = Odd, x = Top, y = Even, z = Odd
+56 : result = Odd, x = Top, y = Even, z = Top

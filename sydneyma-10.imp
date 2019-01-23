@@ -1,0 +1,6 @@
+decl x, y in 
+
+while (1) {
+  x := x + 1;
+}
+y := x + 1;

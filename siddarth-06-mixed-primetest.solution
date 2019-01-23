@@ -1,0 +1,12 @@
+0 : check_factor = Top, check_prime = Odd, quit_loop = Top
+6 : check_factor = Even, check_prime = Odd, quit_loop = Even
+9 : check_factor = Even, check_prime = Odd, quit_loop = Even
+12 : check_factor = Even, check_prime = Odd, quit_loop = Even
+21 : check_factor = Top, check_prime = Odd, quit_loop = Odd
+31 : check_factor = Top, check_prime = Odd, quit_loop = Odd
+36 : check_factor = Top, check_prime = Odd, quit_loop = Top
+37 : check_factor = Top, check_prime = Odd, quit_loop = Top
+38 : check_factor = Top, check_prime = Odd, quit_loop = Top
+39 : check_factor = Top, check_prime = Odd, quit_loop = Top
+44 : check_factor = Top, check_prime = Odd, quit_loop = Top
+45 : check_factor = Top, check_prime = Odd, quit_loop = Top

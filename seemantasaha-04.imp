@@ -1,0 +1,5 @@
+ decl x in
+  x := 3;
+  while (0 < x) {
+    x := x - 1;
+  }

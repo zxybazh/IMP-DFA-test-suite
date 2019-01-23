@@ -1,0 +1,9 @@
+decl x, y, z in
+	if ({0,1}) {
+		x := 5;
+		z := x+y;
+	} else {
+		y := 5;
+		z := x+y;
+	}
+

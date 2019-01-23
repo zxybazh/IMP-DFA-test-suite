@@ -1,0 +1,9 @@
+0 : w = Top, x = Top, y = Top, z = Top
+8 : w = Odd, x = Even, y = Even, z = Even
+9 : w = Even, x = Even, y = Even, z = Even
+13 : w = Top, x = Odd, y = Even, z = Even
+14 : w = Top, x = Even, y = Even, z = Even
+18 : w = Top, x = Top, y = Odd, z = Even
+19 : w = Top, x = Top, y = Top, z = Even
+23 : w = Top, x = Top, y = Top, z = Odd
+24 : w = Top, x = Top, y = Top, z = Top

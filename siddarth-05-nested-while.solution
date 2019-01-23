@@ -1,0 +1,9 @@
+8 : a = Odd, b = Top, c = Top, x = Even
+12 : a = Odd, b = Odd, c = Top, x = Top
+16 : a = Odd, b = Odd, c = Odd, x = Top
+17 : a = Odd, b = Odd, c = Top, x = Top
+22 : a = Odd, b = Odd, c = Top, x = Top
+23 : a = Odd, b = Top, c = Top, x = Top
+32 : a = Odd, b = Top, c = Top, x = Even
+33 : a = Top, b = Top, c = Top, x = Even
+38 : a = Top, b = Top, c = Top, x = Odd

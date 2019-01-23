@@ -1,0 +1,7 @@
+decl x, y in
+x := 3;
+y := 5;
+while (x < y) {
+  y := x * 2;
+}
+print(y);

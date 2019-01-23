@@ -1,0 +1,8 @@
+0 : x = Top, y = Top, z = Odd
+7 : x = Odd, y = Even, z = Even
+10 : x = Odd, y = Even, z = Even
+15 : x = Odd, y = Even, z = Odd
+18 : x = Even, y = Even, z = Even
+21 : x = Even, y = Odd, z = Even
+26 : x = Even, y = Odd, z = Odd
+27 : x = Even, y = Even, z = Even

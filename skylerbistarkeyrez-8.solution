@@ -1,0 +1,7 @@
+12 : a = Odd, b = Even, c = Even, d = Even, e = Even, f = Even, g = Even
+17 : a = Odd, b = Even, c = Even, d = Even, e = Even, f = Even, g = Even
+22 : a = Odd, b = Even, c = Odd, d = Even, e = Even, f = Even, g = Even
+27 : a = Odd, b = Even, c = Odd, d = Top, e = Even, f = Even, g = Even
+32 : a = Odd, b = Even, c = Odd, d = Top, e = Top, f = Even, g = Even
+37 : a = Odd, b = Even, c = Odd, d = Top, e = Top, f = Top, g = Even
+42 : a = Odd, b = Even, c = Odd, d = Top, e = Top, f = Top, g = Top

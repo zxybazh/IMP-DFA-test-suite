@@ -1,0 +1,4 @@
+7 : w = Even, x = Even, y = Even, z = Even
+10 : w = Even, x = Even, y = Top, z = Even
+15 : w = Even, x = Even, y = Top, z = Top
+20 : w = Top, x = Even, y = Top, z = Top

@@ -1,0 +1,8 @@
+6 : factor = Even, n = Top, primality = Even
+9 : factor = Even, n = Top, primality = Even
+12 : factor = Even, n = Top, primality = Odd
+25 : factor = Top, n = Top, primality = Even
+26 : factor = Top, n = Top, primality = Top
+31 : factor = Top, n = Top, primality = Top
+32 : factor = Top, n = Top, primality = Top
+34 : factor = Top, n = Top, primality = Top

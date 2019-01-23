@@ -1,0 +1,8 @@
+6 : a = Even, b = Bottom, c = Bottom
+9 : a = Even, b = Top, c = Bottom
+12 : a = Even, b = Top, c = Bottom
+15 : a = Even, b = Top, c = Bottom
+18 : a = Even, b = Odd, c = Bottom
+21 : a = Odd, b = Top, c = Bottom
+24 : a = Odd, b = Even, c = Bottom
+30 : a = Top, b = Top, c = Odd

@@ -1,0 +1,10 @@
+6 : x = Odd;
+11 : x = Odd;
+16 : x = Odd;
+21 : x = Even;
+26 : x = Even;
+31 : x = Even;
+36 : x = Top;
+41 : x = Top;
+46 : x = Top;
+51 : x = Even;

@@ -1,0 +1,9 @@
+decl x, y in
+x := 1;
+y := 0;
+while (x) {
+	x := x + 2;
+	while (y) {
+		y := 1;
+	}
+}

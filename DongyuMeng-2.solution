@@ -1,0 +1,5 @@
+0 : x = Even, y = Top
+5 : x = Even, y = Bottom
+8 : x = Even, y = Even
+14 : x = Even, y = Odd
+15 : x = Even, y = Even

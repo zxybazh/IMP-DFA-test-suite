@@ -1,0 +1,3 @@
+decl x, y, z in
+x := y <= 6;
+z := x * y;

@@ -1,0 +1,9 @@
+decl w,x,y,z in
+w := Bottom;
+x := Even;
+y := Odd;
+z := Top;
+print(w);
+print(x);
+print(y);
+print(z);

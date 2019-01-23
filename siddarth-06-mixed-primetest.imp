@@ -1,0 +1,24 @@
+decl check_prime, check_factor, quit_loop in
+
+check_prime := 15;
+check_factor := 2;
+quit_loop := 0;
+
+while (quit_loop = 0) {
+	if (check_factor = check_prime) {
+		// Checked all the factors 1 to n
+		quit_loop := 1;
+	} else {
+		if (check_prime / check_factor * check_factor = check_prime) {
+			// Found factor, not prime
+			quit_loop := 1;
+		} else {
+			check_factor := check_factor + 1;
+		}
+	}
+}
+
+// Print a factor if one is found
+if (check_factor != check_prime) {
+	print check_factor;
+}

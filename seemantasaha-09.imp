@@ -1,0 +1,9 @@
+decl x, y, z in
+  x := 2;
+  y := 0;
+  if ({0, 1}) {
+    z := x / y;
+  }
+  else {
+    z := x * y;
+  }

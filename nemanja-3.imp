@@ -1,0 +1,14 @@
+decl x, y, z in
+x := {0, 5, 2};
+y := 5;
+z := {2, 4, 6};
+if (x <= 7) {
+  z := x + y;
+  while(z < 10) {
+    x := x + z + 1;
+    z := z * 1;
+  }
+} else {
+  z := x * y * 2;
+}
+print(z);
