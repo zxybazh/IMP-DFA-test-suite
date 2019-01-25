@@ -1,25 +1,6 @@
-1 : w = Even, x = Even, y = Even, z = Even
-2 : w = Even, x = Even, y = Even, z = Even
-3 : w = Even, x = Even, y = Even, z = Even
-4 : w = Even, x = Even, y = Even, z = Even
-5 : w = Even, x = Even, y = Even, z = Even
-6 : w = Even, x = Even, y = Even, z = Even
-7 : w = Even, x = Even, y = Even, z = Even
-8 : w = Even, x = Even, y = Even, z = Even
-9 : w = Even, x = Even, y = Even, z = Even
-10 : w = Even, x = Even, y = Even, z = Even
-11 : w = Even, x = Even, y = Even, z = Even
-12 : w = Even, x = Even, y = Even, z = Even
-13 : w = Even, x = Even, y = Odd, z = Even
-14 : w = Even, x = Even, y = Odd, z = Even
-15 : w = Even, x = Even, y = Odd, z = Even
-16 : w = Even, x = Even, y = Odd, z = Top
-17 : w = Even, x = Even, y = Odd, z = Top
-18 : w = Even, x = Even, y = Odd, z = Top
-19 : w = Even, x = Even, y = Odd, z = Top
-20 : w = Even, x = Even, y = Odd, z = Top
-21 : w = Even, x = Even, y = Odd, z = Top
-22 : w = Even, x = Even, y = Odd, z = Top
-23 : w = Even, x = Even, y = Odd, z = Top
-24 : w = Even, x = Even, y = Odd, z = Top
-25 : w = Even, x = Even, y = Odd, z = Top
+6 : x = Even, y = Even, z = Even
+9 : x = Even, y = Odd, z = Even
+12 : x = Even, y = Odd, z = Top
+14 : x = Even, y = Odd, z = Top
+16 : x = Even, y = Odd, z = Top
+18 : x = Even, y = Odd, z = Top

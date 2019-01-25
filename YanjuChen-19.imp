@@ -1,8 +1,0 @@
-decl x,y,z in
-x := Even;
-y := x + Odd;
-z := y + Odd;
-while (y!=Even) {
-	y := y - 1;
-}
-z := x + y + z;

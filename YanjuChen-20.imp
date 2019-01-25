@@ -1,9 +1,0 @@
-decl x,y,z in
-x := Top;
-y := Top;
-z := x*y;
-if (0<z) {
-	z := z + (0 - z);
-}
-x := z*x;
-y := y + y;

@@ -1,2 +1,0 @@
-decl x in
-x := Bottom;

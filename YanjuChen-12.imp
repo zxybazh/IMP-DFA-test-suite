@@ -1,9 +1,7 @@
-decl w,x,y,z in
-w := Bottom;
-x := Even;
-y := Odd;
-z := Top;
-print(w);
+decl x,y,z in
+x := {0,2,4,6};
+y := {1,3,5,7};
+z := {0,1};
 print(x);
 print(y);
 print(z);
