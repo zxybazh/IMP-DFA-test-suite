@@ -3,6 +3,7 @@
 13 : w = Even, x = Odd, y = Odd, z = Even
 16 : w = Even, x = Odd, y = Odd, z = Even
 21 : w = Even, x = Even, y = Odd, z = Even
+26 : w = Even, x = Even, y = Odd, z = Even
 31 : w = Even, x = Even, y = Odd, z = Even
 36 : w = Even, x = Even, y = Odd, z = Even
-43 : w = Odd, x = Even, y = Odd, z = Even
+43 : w = Even, x = Even, y = Odd, z = Even

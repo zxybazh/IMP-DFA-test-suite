@@ -3,5 +3,5 @@
 11 : x = Top, y = Odd
 17 : x = Odd, y = Odd
 18 : x = Top, y = Odd
-21 : x = Odd, y = Even
+21 : x = Top, y = Even
 22 : x = Top, y = Even
