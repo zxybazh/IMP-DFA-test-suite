@@ -1,8 +1,14 @@
-6 : a = Even, b = Even, c = Even
-9 : a = Even, b = Top, c = Even
-12 : a = Even, b = Top, c = Even
-15 : a = Even, b = Top, c = Even
-18 : a = Even, b = Odd, c = Even
-21 : a = Odd, b = Top, c = Even
-24 : a = Odd, b = Even, c = Even
-30 : a = Top, b = Top, c = Odd
+ -1:  a := 0
+ -2:  b := 0
+ -3:  c := 0
+  6:  a := 10
+  9:  b := {1, 2, 3}
+ 23:  if ({0, 1}) {
+ 13:    a := 2
+ 16:    b := 3
+   :  } else {
+ 19:    a := 3
+ 22:    b := 2
+   :  }
+ 28:  c := (a + b)
+
