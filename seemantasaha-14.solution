@@ -1,10 +1,10 @@
 0 : x = Top, y = Odd, z = Top
 6 : x = Even, y = Even, z = Even
 9 : x = Even, y = Odd, z = Even
-18 : x = Even, y = Odd, z = Odd
-23 : x = Even, y = Odd, z = Odd
+18 : x = Even, y = Odd, z = Top
+23 : x = Even, y = Odd, z = Top
 28 : x = Even, y = Odd, z = Odd
-29 : x = Even, y = Odd, z = Odd
+29 : x = Even, y = Odd, z = Top
 35 : x = Top, y = Odd, z = Top
 40 : x = Top, y = Odd, z = Top
 45 : x = Top, y = Odd, z = Top

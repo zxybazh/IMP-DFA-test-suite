@@ -4,4 +4,4 @@
 18 : w = Even, x = Even, y = Even, z = Even
 23 : w = Even, x = Even, y = Even, z = Top
 28 : w = Top, x = Even, y = Even, z = Top
-29 : w = Top, x = Even, y = Even, z = Even
+29 : w = Even, x = Even, y = Even, z = Even
