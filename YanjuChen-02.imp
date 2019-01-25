@@ -1,2 +1,2 @@
 decl x in
-x := Even;
+x := {0,2,4,6};
