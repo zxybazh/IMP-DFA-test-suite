@@ -1,3 +1,3 @@
-6 : x = Odd, y = Bottom, z = Bottom
-9 : x = Odd, y = Even, z = Bottom
-12 : x = Odd, y= Even, z = Top
+6 : x = Odd, y = Even, z = Even
+9 : x = Odd, y = Even, z = Even
+12 : x = Odd, y = Even, z = Top

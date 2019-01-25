@@ -1,5 +1,5 @@
 0 : x = Top, y = Top
-5 : x = Even, y = Bottom
+5 : x = Even, y = Even
 8 : x = Even, y = Odd
 20 : x = Even, y = Odd
 21 : x = Top, y = Odd

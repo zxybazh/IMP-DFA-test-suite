@@ -1,5 +1,5 @@
-6 : x = Even, y = Bottom, z = Bottom
-9 : x = Even, y = Odd, z = Bottom
+6 : x = Even, y = Even, z = Even
+9 : x = Even, y = Odd, z = Even
 14 : x = Even, y = Odd, z = Odd
 19 : x = Even, y = Odd, z = Odd
 24 : x = Even, y = Odd, z = Even

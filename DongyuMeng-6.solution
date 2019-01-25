@@ -1,6 +1,6 @@
-7 : w = Even, x = Bottom, y = Bottom, z = Bottom
-10 : w = Even, x = Odd, y = Bottom, z = Bottom
-13 : w = Even, x = Odd, y = Odd, z = Bottom
+7 : w = Even, x = Even, y = Even, z = Even
+10 : w = Even, x = Odd, y = Even, z = Even
+13 : w = Even, x = Odd, y = Odd, z = Even
 16 : w = Even, x = Odd, y = Odd, z = Even
 21 : w = Even, x = Even, y = Odd, z = Even
 31 : w = Even, x = Even, y = Odd, z = Even
