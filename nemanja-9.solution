@@ -1,4 +1,5 @@
 5 : x = Odd, y = Even
 8 : x = Odd, y = Odd
-16 : x := Odd, y := Even
-19 : x := Odd, y := Top
+16 : x = Odd, y = Even
+17 : x = Odd, y = Top
+19 : x = Odd, y = Top

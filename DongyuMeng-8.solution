@@ -1,8 +1,8 @@
-0 : x = Top, y = Even
-5 : x = Top, y = Bottom
+0 : x = Top, y = Top
+5 : x = Top, y = Even
 11 : x = Top, y = Odd
 14 : x = Top, y = Even
-15 : x = Top, y = Bottom
+15 : x = Top, y = Even
 21 : x = Odd, y = Top
 24 : x = Even, y = Top
 25 : x = Top, y = Top

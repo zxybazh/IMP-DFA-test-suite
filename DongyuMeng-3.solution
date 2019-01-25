@@ -1,8 +1,8 @@
-6 : x = Even, y = Bottom, z = Bottom
-9 : x = Even, y = Odd, z = Bottom
+6 : x = Even, y = Even, z = Even
+9 : x = Even, y = Odd, z = Even
 12 : x = Even, y = Odd, z = Even
-23 : x = Even, y = Odd, z = Even
-28 : x = Even, y = Odd, z = Odd
-29 : x = Even, y = Odd, z = Even
-30 : x = Even, y = Odd, z = Even
+23 : x = Even, y = Odd, z = Top
+28 : x = Even, y = Odd, z = Top
+29 : x = Even, y = Odd, z = Top
+30 : x = Even, y = Odd, z = Top
 35 : x = Even, y = Top, z = Top

@@ -1,10 +1,10 @@
-6: x = Odd, y = Even, z = Even
-9: x = Odd, y = Odd, z = Even
-14: x = Odd, y = Odd, z = Even
-19: x = Odd, y = Odd, z = Even
-24: x = Odd, y = Odd, z = Odd
-29: x = Odd, y = Odd, z = Top
-34: x = Odd, y = Odd, z = Top
-39: x = Odd, y = Odd, z = Top
-44: x = Odd, y = Odd, z = Top
-49: x = Odd, y = Odd, z = Top
+6 : x = Odd, y = Even, z = Even
+9 : x = Odd, y = Odd, z = Even
+14 : x = Odd, y = Odd, z = Even
+19 : x = Odd, y = Odd, z = Even
+24 : x = Odd, y = Odd, z = Odd
+29 : x = Odd, y = Odd, z = Top
+34 : x = Odd, y = Odd, z = Top
+39 : x = Odd, y = Odd, z = Top
+44 : x = Odd, y = Odd, z = Top
+49 : x = Odd, y = Odd, z = Top

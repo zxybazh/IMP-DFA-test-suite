@@ -1,6 +1,6 @@
-6: x = Even, y = Top
-10: x = Even, y = Top
-13: x = Even, y = Top
-14: x = Even, y = Top
-15: x = Even, y = Top
-20: x = Top, y = Top
+8 : x = Top, y = Even
+14 : x = Top, y = Even
+15 : x = Top, y = Even
+20 : x = Top, y = Even
+21 : x = Top, y = Even
+26 : x = Top, y = Top
