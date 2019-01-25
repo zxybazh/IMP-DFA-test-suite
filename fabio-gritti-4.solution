@@ -4,8 +4,8 @@
 17 : x = Even, y = Even, z = Even
 20 : x = Even, y = Odd, z = Even
 25 : x = Even, y = Odd, z = Even
-28 : x = Even, y = Odd, z = Odd
-31 : x = Even, y = Top, z = Odd
+28 : x = Even, y = Odd, z = Even
+31 : x = Even, y = Top, z = Even
 36 : x = Even, y = Top, z = Even
 39 : x = Odd, y = Top, z = Even
 42 : x = Odd, y = Even, z = Even
