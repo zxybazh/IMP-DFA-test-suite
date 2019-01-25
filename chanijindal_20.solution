@@ -1,7 +1,7 @@
+0 : x = Top, y = Top, z = Even
 6 : x = Even, y = Even, z = Even
 12 : x = Even, y = Even, z = Even
 15 : x = Even, y = Top, z = Even
 23 : x = Top, y = Top, z = Even
-24 : x = Even, y = Top, z = Even
+24 : x = Top, y = Top, z = Even
 25 : x = Even, y = Even, z = Even
-0 : x = Top, y = Top, z = Even
