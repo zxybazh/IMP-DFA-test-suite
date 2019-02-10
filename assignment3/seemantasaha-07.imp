@@ -1,0 +1,23 @@
+decl x,y,z in
+  x := {0, 1, 2, 3};
+  if (x = 1) {
+    print x;
+    print y;
+    z := x + y;
+    print z - 1;
+
+    x := x + 3;
+    y := y + 5;
+    print x;
+    print y;
+  }
+  else {
+    x := 8;
+    y := 7;
+    print x;
+    print y;
+  }
+  print x;
+  print y;
+  z := x + y;
+  print z;

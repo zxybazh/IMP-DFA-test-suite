@@ -1,0 +1,13 @@
+decl x in
+	if ({0,1}) {
+		while (x < 2) {
+			x := x+1;
+		}
+	} else {
+		x := 2;
+		x := x;
+		x := x;
+		x := x;
+	}
+	print x;
+

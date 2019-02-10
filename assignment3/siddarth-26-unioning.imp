@@ -1,0 +1,14 @@
+decl x,y,z in
+x := {0, 6};
+y := 2;
+z := x + y;
+if (z <= {2, 4} ) {
+  x := 2;
+  print y;
+  print x;
+}
+else {
+  y := 4;
+  print x;
+  print y;
+}

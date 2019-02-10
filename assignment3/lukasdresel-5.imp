@@ -1,0 +1,9 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := ({1, 2, 3} + {-199, 2, 4, 8});
+print x;
+print y;
+print z;
+

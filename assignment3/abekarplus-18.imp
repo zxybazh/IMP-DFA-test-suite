@@ -1,0 +1,10 @@
+decl x, y, z in
+	x := 7;
+	while (y < x) {
+		y := y + 1;
+		if ((2*(y/2)) = y) {
+			z := y + {0,10};
+			print z;
+		}
+	}
+

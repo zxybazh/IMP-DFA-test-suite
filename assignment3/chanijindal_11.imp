@@ -1,0 +1,15 @@
+decl x, y in
+x := {0, 1};
+while(x < 5){
+ x := x + 2;
+ print x;
+ if(x < 3){
+  y := x + 1;
+  print y;
+ }
+ else{
+ y := x;
+ print y;
+ }
+}
+

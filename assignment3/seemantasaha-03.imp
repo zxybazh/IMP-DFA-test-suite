@@ -1,0 +1,7 @@
+ decl x in
+  x := {0, 1, 2, 3};
+  if (0 < x) {
+    x := x * 2;
+  }
+  print x;
+

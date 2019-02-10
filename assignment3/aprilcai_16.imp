@@ -1,0 +1,6 @@
+decl x, y, z, t in
+x := {0, 4, 5};
+y := {3, 4};
+z := 3;
+t := 1;
+print x*y + z - t;

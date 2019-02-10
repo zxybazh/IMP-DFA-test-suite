@@ -1,0 +1,28 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := 1;
+print x;
+print y;
+print z;
+if (0) {
+  print x;
+  print y;
+  print z;
+  x := 2;
+  print x;
+  print y;
+  print z;
+} else {
+  print x;
+  print y;
+  print z;
+  print x;
+  print y;
+  print z;
+}
+print x;
+print y;
+print z;
+

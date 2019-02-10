@@ -1,0 +1,41 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := 1;
+print x;
+print y;
+print z;
+if ({0, 1}) {
+  print x;
+  print y;
+  print z;
+  x := (x / 0);
+  print x;
+  print y;
+  print z;
+  y := (y + 3);
+  print x;
+  print y;
+  print z;
+} else {
+  print x;
+  print y;
+  print z;
+  y := (y + 4);
+  print x;
+  print y;
+  print z;
+  z := (x + 5);
+  print x;
+  print y;
+  print z;
+}
+print x;
+print y;
+print z;
+x := (x + 1);
+print x;
+print y;
+print z;
+

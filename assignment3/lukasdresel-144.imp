@@ -1,0 +1,25 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := {0, 1};
+print x;
+print y;
+print z;
+while ((x < 5)) {
+  print x;
+  print y;
+  print z;
+  y := (y + 2);
+  print x;
+  print y;
+  print z;
+  x := (x + 1);
+  print x;
+  print y;
+  print z;
+}
+print x;
+print y;
+print z;
+

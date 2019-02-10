@@ -1,0 +1,13 @@
+decl x in
+	x := {0, 1, 2, 3};
+	if (x = 1) {
+		print x;
+		while (x = {1,2}) {
+			x := x + 1;
+			print x;
+		}
+		print x;
+	}
+	print x;
+	x := 5;
+	print x;

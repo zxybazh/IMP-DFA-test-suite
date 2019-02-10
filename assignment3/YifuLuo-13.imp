@@ -1,0 +1,3 @@
+// divided by zero
+decl x in
+print 10 / x;

@@ -1,0 +1,4 @@
+decl x in
+
+x := 10;
+print x;

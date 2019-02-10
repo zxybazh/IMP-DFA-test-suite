@@ -1,0 +1,16 @@
+decl x, y in
+x := {1, 5, 3};
+y := {1, 2};
+while(2 <= x) {
+  print(x);
+  x := x - y;
+  if (x <= 1) {
+    print(x * y);
+  } else {
+    while(x <= y) {
+      y := y + 1;
+      print(x);
+    }
+  }
+}
+print(x);

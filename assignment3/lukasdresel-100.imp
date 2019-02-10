@@ -1,0 +1,10 @@
+decl x, y in
+print x;
+print y;
+x := 1;
+print x;
+print y;
+x := (y * x);
+print x;
+print y;
+

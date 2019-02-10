@@ -1,0 +1,5 @@
+decl x in
+x := 4;
+print x;
+x := {2, 3} < x;
+print x;

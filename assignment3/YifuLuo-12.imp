@@ -1,0 +1,14 @@
+// arithmatic / - normal cases
+decl a, b, x, y, z in
+x := 6;
+y := 6;
+z := {2, 3, 4};
+
+print 3 / 4;
+print 100 / 20;
+a := x / 3;
+print a;
+print x / y;
+b := x / z;
+print b;
+print x - z;

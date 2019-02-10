@@ -1,0 +1,12 @@
+// Euclid's algorithm
+decl a, b in
+a := 60;
+b := 42;
+while (a != b) {
+	if (a < b) {
+		b := b - a;
+	} else {
+		a := a - b;
+	}
+}
+print a;

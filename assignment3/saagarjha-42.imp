@@ -1,0 +1,8 @@
+decl x in
+if ({0, 1}) {
+	x := 2;
+	print x;
+} else {
+	x := 2;
+}
+print x;

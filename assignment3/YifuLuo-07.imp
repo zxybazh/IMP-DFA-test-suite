@@ -1,0 +1,6 @@
+// conditional - no else - true
+decl x in
+if ({1,2,3}) {
+  x := 1;
+}
+print x;

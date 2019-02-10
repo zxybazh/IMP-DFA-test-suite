@@ -1,0 +1,9 @@
+decl w, x, y, z in
+	x := {1,100};
+	print x;
+	y := {2,10};
+	print y;
+	z := y * x;
+	print z;
+	w := x + z;
+	print w;

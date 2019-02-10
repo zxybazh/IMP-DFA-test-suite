@@ -1,0 +1,29 @@
+decl a, b, c, d, e, x in
+
+if ({0, 1}) { // Nest the TRUE path
+	a := 1;
+	if ({0, 1}) {
+		b := 1;
+		if ({0, 1}) {
+			c := 1;
+		} else {
+			d := 1;
+		}
+	} else {
+		e := 1;
+	}
+} else { // Nest the FALSE path
+	a := 2;
+	if ({0, 1}) {
+		b := 2;
+	} else {
+		c := 2;
+		if ({0, 1}) {
+			d := 2;
+		} else {
+			e := 2;
+		}
+	}
+}
+x := 2 * (a + b + c + d + e);
+print x;
