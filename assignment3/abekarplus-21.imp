@@ -1,0 +1,16 @@
+decl x in
+	if (0) {
+		while (1) {
+			x := x+1;
+			print x;
+		}
+	}
+	if ({0,1}) {
+		while (x < 5) {
+			x := x+1;
+		}
+	} else {
+		x := 5;
+	}
+	print x;
+

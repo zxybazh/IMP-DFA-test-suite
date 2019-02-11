@@ -1,0 +1,8 @@
+decl x in
+x := {7,11};
+if ( x < 8 ){
+print x;
+}
+else{
+print x;
+}

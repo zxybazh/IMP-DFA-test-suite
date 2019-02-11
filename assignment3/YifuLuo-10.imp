@@ -1,0 +1,18 @@
+// arithmatic *
+decl a, b, x, y, z in
+y := 5;
+z := {1, 2, 3};
+
+print 3 * 4;
+a := x * 1;
+print a;
+print x * y;
+b := x * z;
+print b;
+print y * z;
+print z * z;
+//a={0,0,0}
+//b={0,0,0}
+//z={1,2,3}
+print a * b;
+print b * z;

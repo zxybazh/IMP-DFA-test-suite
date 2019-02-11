@@ -1,0 +1,12 @@
+decl x, y, z in
+	x := 5;
+	while (y < x) {
+		y := y + 1;
+		if ({0,1}) {
+			z := z+1;
+		} else {
+			z := z-1;
+		}		
+		print z;
+	}
+

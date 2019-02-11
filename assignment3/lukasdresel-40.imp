@@ -1,0 +1,17 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := {0, 1, 2, 3, 4, 5};
+print x;
+print y;
+print z;
+y := {-9, -8, -1, 4};
+print x;
+print y;
+print z;
+z := (y = x);
+print x;
+print y;
+print z;
+

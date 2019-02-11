@@ -1,0 +1,44 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := {3, 4};
+print x;
+print y;
+print z;
+y := {2, 6};
+print x;
+print y;
+print z;
+if (((x + y) < 5)) {
+  print x;
+  print y;
+  print z;
+  while (x) {
+    print x;
+    print y;
+    print z;
+    x := (x + x);
+    print x;
+    print y;
+    print z;
+  }
+  print x;
+  print y;
+  print z;
+} else {
+  print x;
+  print y;
+  print z;
+  print x;
+  print y;
+  print z;
+}
+print x;
+print y;
+print z;
+y := 3;
+print x;
+print y;
+print z;
+

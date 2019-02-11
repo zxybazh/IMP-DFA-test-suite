@@ -1,0 +1,25 @@
+decl x, y in 
+
+x := {1, 2};
+y := {0, 3};
+
+if(x <= 3) {
+  print x;
+  print y;
+  y := x+2;
+  if(y <= 3) {
+    print x;
+    print y;
+  }
+  else {
+    print x;
+    print y;
+  }
+}
+else {
+  print x;
+  print y;
+}
+print x;
+print y;
+

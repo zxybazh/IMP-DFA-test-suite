@@ -1,0 +1,8 @@
+decl x, y, z in
+x := 66666666;
+y := 99999999;
+z := 1;
+print x + y;
+print x - y;
+print (z + x )* y;
+print y / x;

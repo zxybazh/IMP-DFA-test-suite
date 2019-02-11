@@ -1,0 +1,12 @@
+decl x, y in 
+
+x := {1, 4};
+if(x <= 3) {
+  while(x <= 3) {
+    print x;
+    x := x+1;
+  }
+}
+else {
+  print y;
+}

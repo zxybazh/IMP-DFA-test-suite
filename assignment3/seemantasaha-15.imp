@@ -1,0 +1,19 @@
+decl x, y, z in
+  x := {6, 9, 12, 15, 18};
+  while (3 < x) {
+    x := x - 3;
+    y := 2;
+    print x;
+    print y;
+    x := x + y;
+    print x; 
+  }
+  print x;
+  print y;
+  if (x - 3 = 0) {
+    z := 1;
+  }
+  else {
+    z := 0;
+  }
+  print z;

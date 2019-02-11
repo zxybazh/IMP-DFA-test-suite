@@ -1,0 +1,11 @@
+decl x in
+while (x < 3) {
+    if ({0, 1}) {
+        print x;
+    }
+    else {
+        print x + 10;
+    }
+
+    x := x + 1;
+}

@@ -1,0 +1,9 @@
+decl x in
+x := 2;
+if ({2, 1}){
+	x := x + 3;
+}
+else{
+	x := x * 2;
+}
+print x;

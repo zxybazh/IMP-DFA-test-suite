@@ -1,0 +1,18 @@
+decl x,y in
+  while (x < 2) {
+  	y := 0;
+  	while (y < 2) {
+  		if (x = y) {
+  			print x;
+  			print y;
+  		} else {
+  			print x;
+  			print y;
+  		}
+  		y := y + 1;
+  	}
+  	print y;
+  	x := x + 1;
+  }
+  print x;
+

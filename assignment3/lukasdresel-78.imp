@@ -1,0 +1,13 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := {-18, 0, 1};
+print x;
+print y;
+print z;
+y := ({2, 9} <= x);
+print x;
+print y;
+print z;
+

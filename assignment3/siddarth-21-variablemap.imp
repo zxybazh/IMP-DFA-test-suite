@@ -1,0 +1,8 @@
+decl x, y, z, result in
+
+x := 1021;
+y := 500;
+z := 11;
+
+result := {50, 100} + x * y * z;
+print result;

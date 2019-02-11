@@ -1,0 +1,4 @@
+Parse error: '':='' expected but '=' found
+At line: 5 column: 7
+    x = x - 1;
+      ^

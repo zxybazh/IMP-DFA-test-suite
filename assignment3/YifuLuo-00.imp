@@ -1,0 +1,3 @@
+// trivial print
+decl x in
+print x;

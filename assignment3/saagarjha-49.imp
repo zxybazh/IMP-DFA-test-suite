@@ -1,0 +1,13 @@
+decl x in
+x := 0;
+if (x) {
+	print x;
+} else {
+	print x;
+	while (x) {
+		x := x - 1;
+		print x;
+	}
+	print x;
+}
+print x;

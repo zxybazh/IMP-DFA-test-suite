@@ -1,0 +1,7 @@
+decl x in
+print x;
+x := 1;
+print x;
+x := (x <= x);
+print x;
+

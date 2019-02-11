@@ -1,0 +1,93 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := {0, 1};
+print x;
+print y;
+print z;
+if (x) {
+  print x;
+  print y;
+  print z;
+  x := -3;
+  print x;
+  print y;
+  print z;
+  while ((x < 2)) {
+    print x;
+    print y;
+    print z;
+    y := (y + x);
+    print x;
+    print y;
+    print z;
+    x := (x + 1);
+    print x;
+    print y;
+    print z;
+    if (y) {
+      print x;
+      print y;
+      print z;
+      y := 1;
+      print x;
+      print y;
+      print z;
+    } else {
+      print x;
+      print y;
+      print z;
+      y := 3;
+      print x;
+      print y;
+      print z;
+    }
+    print x;
+    print y;
+    print z;
+    x := (x + 1);
+    print x;
+    print y;
+    print z;
+  }
+  print x;
+  print y;
+  print z;
+  while ((x < 15)) {
+    print x;
+    print y;
+    print z;
+    x := (x + x);
+    print x;
+    print y;
+    print z;
+  }
+  print x;
+  print y;
+  print z;
+} else {
+  print x;
+  print y;
+  print z;
+  while ((x + (y < 100))) {
+    print x;
+    print y;
+    print z;
+    y := (y + {20, 21});
+    print x;
+    print y;
+    print z;
+  }
+  print x;
+  print y;
+  print z;
+}
+print x;
+print y;
+print z;
+x := 12;
+print x;
+print y;
+print z;
+

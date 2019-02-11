@@ -1,0 +1,13 @@
+decl x, y, z in
+x := {8,10};
+y := {1,2};
+z := 9;
+while (x < z) {
+  print x;
+  while ( y <= 6 ){
+    y := y + 5;
+    print y;
+  }
+  print z;
+  z := z-1;
+}
