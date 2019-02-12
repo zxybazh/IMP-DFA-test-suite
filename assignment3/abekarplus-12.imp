@@ -4,4 +4,3 @@ decl x, y in
 		y := x;
 	}
 	print y;
-

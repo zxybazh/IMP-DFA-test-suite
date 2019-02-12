@@ -7,4 +7,3 @@ print y;
 x := (x * x);
 print x;
 print y;
-

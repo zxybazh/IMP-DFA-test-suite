@@ -7,4 +7,3 @@ decl x, y, z in
 			print z;
 		}
 	}
-

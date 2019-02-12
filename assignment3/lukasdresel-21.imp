@@ -38,4 +38,3 @@ x := (x + 1);
 print x;
 print y;
 print z;
-

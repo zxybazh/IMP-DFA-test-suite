@@ -14,4 +14,3 @@ z := (-3 <= -9);
 print x;
 print y;
 print z;
-

@@ -10,4 +10,3 @@ print y;
 x := (x + y);
 print x;
 print y;
-

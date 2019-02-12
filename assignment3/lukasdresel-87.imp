@@ -30,4 +30,3 @@ y := (y * (y - y));
 print x;
 print y;
 print z;
-

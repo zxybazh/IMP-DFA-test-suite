@@ -10,4 +10,3 @@ x := (x / x);
 print x;
 print y;
 print z;
-

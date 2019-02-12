@@ -6,4 +6,3 @@ x := ({1, 2} != {1, 2});
 print x;
 print y;
 print z;
-

@@ -14,4 +14,3 @@ z := (6 + y);
 print x;
 print y;
 print z;
-

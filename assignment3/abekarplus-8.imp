@@ -6,4 +6,3 @@ decl x, y in
 		x := 2;
 	}
 	print y;
-
