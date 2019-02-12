@@ -18,4 +18,3 @@ z := (y = x);
 print x;
 print y;
 print z;
-

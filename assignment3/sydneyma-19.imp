@@ -17,4 +17,3 @@ else {
   print 0;
 }
 print y;
-

@@ -26,4 +26,3 @@ if ({0, 1}) {
 print x;
 print y;
 print z;
-

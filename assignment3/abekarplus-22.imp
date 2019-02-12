@@ -10,4 +10,3 @@ decl x in
 		x := x;
 	}
 	print x;
-

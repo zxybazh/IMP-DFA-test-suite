@@ -1,4 +1,4 @@
- decl x in
+decl x in
   x := 3;
   while (0 < x) {
     print x;

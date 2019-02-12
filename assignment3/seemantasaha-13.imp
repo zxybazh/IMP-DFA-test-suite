@@ -15,4 +15,3 @@ decl x,y in
   	x := x + 1;
   }
   print x;
-

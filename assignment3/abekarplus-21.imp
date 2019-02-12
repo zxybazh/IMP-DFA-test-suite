@@ -13,4 +13,3 @@ decl x in
 		x := 5;
 	}
 	print x;
-

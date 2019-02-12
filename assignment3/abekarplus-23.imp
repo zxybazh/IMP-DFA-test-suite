@@ -21,4 +21,3 @@ decl x,y in
 	print x;
 	x := {1,2,3,6}!={3,4,7,8};
 	print x;
-

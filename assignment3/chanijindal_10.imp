@@ -2,4 +2,3 @@ decl x, y in
 x := {1, 2, 5};
 y := {0, 1};
 print x + y;
-

@@ -6,4 +6,3 @@ x := ({1, 2, 3} + {-199, 2, 4, 8});
 print x;
 print y;
 print z;
-
