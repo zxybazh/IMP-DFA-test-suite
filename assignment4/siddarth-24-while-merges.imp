@@ -1,0 +1,30 @@
+decl x, y, z, result in
+
+// While - Merge disparate type values
+while ({0, 1}) {
+	x := 1;
+}
+print x;
+
+// While - Merge same type values
+while ({0, 1}) {
+	y := 2;
+}
+print y;
+
+// While - Merge unknown type values
+while ({0, 1}) {
+	z := x + y;
+}
+print z;
+
+// Clear Top value
+result := (2 * (x + y - z)) + 1;
+
+// While - Assign on merge
+z := 0;
+while ({0, 1}) {
+	z := 1;
+}
+z := z * result;
+print z;

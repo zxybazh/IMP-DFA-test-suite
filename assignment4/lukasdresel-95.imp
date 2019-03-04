@@ -1,0 +1,13 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := (1 * 4);
+print x;
+print y;
+print z;
+y := (1 * -8);
+print x;
+print y;
+print z;
+

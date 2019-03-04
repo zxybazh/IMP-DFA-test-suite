@@ -1,0 +1,5 @@
+decl x in
+print x;
+print 1;
+print x;
+

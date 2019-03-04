@@ -1,0 +1,8 @@
+// conditional - identical states
+decl x in
+if ({0, 1}) {
+  x := 1;
+} else {
+  x := 1;
+}
+print x;

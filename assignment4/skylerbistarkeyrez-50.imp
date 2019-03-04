@@ -1,0 +1,4 @@
+decl x in
+x := {2, 4, 0};
+x := 12 / x;
+print x;

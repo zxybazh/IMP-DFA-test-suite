@@ -1,0 +1,13 @@
+// Primality test using trial division
+decl n, factor, primality in
+n := {4, 6, 8, 9};
+factor := 2;
+primality := 1;
+while (factor < n) {
+	// Check if n % factor == 0
+	if (n = factor * n / factor) {
+		primality := 0;
+	}
+	factor := factor + 1;
+}
+print primality;

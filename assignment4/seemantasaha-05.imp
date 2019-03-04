@@ -1,0 +1,10 @@
+decl x, y in
+  
+  if (x = 0) {
+  	y := 3;
+  } else {
+  	y := 2;
+  }
+  
+  print x;
+  print y;

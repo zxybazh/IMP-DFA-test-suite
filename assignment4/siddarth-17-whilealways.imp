@@ -1,0 +1,6 @@
+decl x in
+while({1, 3, 5}) {
+  x := x + 1;
+  print x;
+}
+print x;

@@ -1,0 +1,14 @@
+decl x, y in
+x := {2, 4};
+y := {3, 7};
+while(x * y < 10) {
+  if (x < 6) {
+    x := x - 2;
+    y := x + 1;
+  }
+  else {
+    y := y * y;
+  }
+}
+print(x);
+print(y);

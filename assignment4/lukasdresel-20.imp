@@ -1,0 +1,37 @@
+decl a, b, c, d, x in
+print a;
+print b;
+print c;
+print d;
+print x;
+a := 5;
+print a;
+print b;
+print c;
+print d;
+print x;
+b := 8;
+print a;
+print b;
+print c;
+print d;
+print x;
+c := -3;
+print a;
+print b;
+print c;
+print d;
+print x;
+d := {3, 5, 6};
+print a;
+print b;
+print c;
+print d;
+print x;
+x := ((((a * b) * (a + b)) / (d / (4 + c))) - (1 - d));
+print a;
+print b;
+print c;
+print d;
+print x;
+

@@ -1,0 +1,4 @@
+decl x, y in
+x := {0, 1};
+y := x;
+print y;

@@ -1,0 +1,9 @@
+// Factorial
+decl n, product in
+n := {1, 2, 3, 4, 5};
+product := 1;
+while (n) {
+	product := product * n;
+	n := n - 1;
+}
+print product;

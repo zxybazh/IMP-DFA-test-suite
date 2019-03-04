@@ -1,0 +1,29 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := 1;
+print x;
+print y;
+print z;
+y := 1;
+print x;
+print y;
+print z;
+z := (x != y);
+print x;
+print y;
+print z;
+x := 1;
+print x;
+print y;
+print z;
+y := 2;
+print x;
+print y;
+print z;
+z := (x != y);
+print x;
+print y;
+print z;
+

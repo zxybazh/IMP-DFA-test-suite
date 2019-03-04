@@ -1,0 +1,11 @@
+// while
+decl x, y in
+y := {1, 2};
+while (x < 2) {
+  x := x + 1;
+  y := y + 1;
+  print x;
+  print y;
+}
+print x;
+print y;

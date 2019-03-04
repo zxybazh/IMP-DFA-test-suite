@@ -1,0 +1,17 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := 1;
+print x;
+print y;
+print z;
+y := (0 <= x);
+print x;
+print y;
+print z;
+z := (6 + y);
+print x;
+print y;
+print z;
+

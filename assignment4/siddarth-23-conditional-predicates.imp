@@ -1,0 +1,40 @@
+decl x in
+
+// Odd: Always true conditional
+x := 1;
+if (x) {
+	x := 2;
+}
+print x;
+
+// Even: Unknown
+if (2 * x) {
+	x := 1;
+}
+print x;
+
+// Odd: Always true conditional
+if ((2 * x) + 1) {
+	x := 0;
+}
+print x;
+
+// E=O: Always false conditional
+x := 0;
+if (x = 1) {
+	x := 1;
+}
+print x;
+
+// E=E: Unknown
+x := 0;
+if (x = 0) {
+	x := 1;
+}
+print x;
+
+// Fake always true conditional
+if (x = x) {
+	x := 1;
+}
+print x;

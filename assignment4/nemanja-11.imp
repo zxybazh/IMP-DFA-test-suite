@@ -1,0 +1,9 @@
+decl x, y in
+x := 10;
+y := {2, 4};
+while(0 < x) {
+  x := x - 1;
+  y := y + x;
+}
+print(x);
+print(y);

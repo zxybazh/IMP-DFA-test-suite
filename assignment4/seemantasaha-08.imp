@@ -1,0 +1,11 @@
+decl x,y,z in
+  
+  while (x + y < 12) {
+    x := x + 1;
+    y := y + 2;
+  	z := z + 3;
+  }
+  
+  print x;
+  print y;
+  print z;

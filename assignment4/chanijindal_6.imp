@@ -1,0 +1,7 @@
+decl x, y in
+x := 9;
+print(x);
+if (x < 6){
+print(x);
+}
+print(x);

@@ -1,0 +1,6 @@
+decl x, y in
+print y;
+x := 1;
+print x;
+y := x;
+print y;

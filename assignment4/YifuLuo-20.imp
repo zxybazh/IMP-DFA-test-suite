@@ -1,0 +1,12 @@
+// nested while
+decl x, y in
+x := 0;
+y := {0, 1};
+while (x < 2) {
+  while (y <= 2) {
+    y := y + 1;
+    print y;
+  }
+  x := x + 1;
+  print x;
+}

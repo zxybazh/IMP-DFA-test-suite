@@ -1,0 +1,21 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := 1;
+print x;
+print y;
+print z;
+z := (x / x);
+print x;
+print y;
+print z;
+x := -1;
+print x;
+print y;
+print z;
+z := (x / x);
+print x;
+print y;
+print z;
+

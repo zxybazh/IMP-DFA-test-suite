@@ -1,0 +1,19 @@
+// nested if
+decl x, y in
+if ({0, 1, 2}) {
+  x := {1, 2};
+  print x;
+  if ({0, 1, 2}) {
+    if ({1, 2}) {
+      x := (x != 100) * (x + x);
+    } else {
+      // do not track this print, never executed
+      x := 100;
+      print x;
+    }
+  } else{
+    y := {10, 50};
+    x := x * y;
+    print x;
+  }
+}

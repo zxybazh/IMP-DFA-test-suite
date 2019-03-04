@@ -1,0 +1,19 @@
+decl x,y,z in
+  
+  while (x != 1) {
+    x := x + 1;
+  }
+
+  print x;
+  
+  if(x = 1) {
+  	y := 1;
+  	z := 3;
+  } else {
+  	y := 2;
+  	z := 1;
+  }
+
+  print x;
+  print y;
+  print z;

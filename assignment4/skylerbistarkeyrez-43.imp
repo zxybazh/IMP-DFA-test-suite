@@ -1,0 +1,7 @@
+decl x in
+if (0) {
+    print x;
+}
+else {
+    print x+1;
+}

@@ -1,0 +1,18 @@
+decl x, y in 
+
+x := 2;
+y := 3;
+while(x != 3) {
+  print x;
+  print y;
+  while(y <= 3) {
+    print x;
+    print y;
+    y := y+1;
+  }
+  print x;
+  print y;
+  x := x+1;
+}
+print x;
+print y;

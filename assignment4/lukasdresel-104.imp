@@ -1,0 +1,17 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := 1313131399989;
+print x;
+print y;
+print z;
+y := -1928918987923948;
+print x;
+print y;
+print z;
+z := (x != y);
+print x;
+print y;
+print z;
+

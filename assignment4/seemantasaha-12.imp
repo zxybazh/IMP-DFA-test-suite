@@ -1,0 +1,14 @@
+decl a,b,c,d,e in
+  
+  if (a < 1) {
+    b := 1;
+  } else {
+    b := 3;
+  }
+
+  c := a + b;
+  print c;
+  d := b + c;
+  print d;
+  e := c + d;
+  print e;

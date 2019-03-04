@@ -1,0 +1,7 @@
+decl x, y in
+y := {4, 3};
+while (y) {
+    x := x + 2;
+    print x;
+    y := y - 1;
+}

@@ -1,0 +1,13 @@
+decl x, y in
+x := {0, 4, 6};
+y := {3, 4};
+print y;
+while (x < y) {
+y := x * y;
+print x;
+print y;
+}
+y := 1 + y + x ;
+print y;
+
+
