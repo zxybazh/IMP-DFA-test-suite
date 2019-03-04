@@ -2,5 +2,5 @@
 11 : x = Even, y = Odd, z = Even
 16 : x = Even, y = Odd, z = Even
 24 : x = Even, y = Top, z = Even
-25 : x = Even, y = Odd, z = Even
+25 : x = Even, y = Top, z = Even
 32 : x = Even, y = Top, z = Top
