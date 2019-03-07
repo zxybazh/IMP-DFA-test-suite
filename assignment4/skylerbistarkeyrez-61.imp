@@ -1,0 +1,15 @@
+decl x in
+
+while({0,1}) {
+    if ({0,1}) {
+        x := x + 2;
+    }
+    else {
+        x := x + 4;
+    }
+
+    print x;
+}
+
+x := x + 1;
+print x;

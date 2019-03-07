@@ -1,0 +1,80 @@
+decl x, y, z in
+print x;
+print y;
+print z;
+x := {0, 1};
+print x;
+print y;
+print z;
+if (x) {
+  print x;
+  print y;
+  print z;
+  z := 17;
+  print x;
+  print y;
+  print z;
+  if ((x = 0)) {
+    print x;
+    print y;
+    print z;
+    x := 2;
+    print x;
+    print y;
+    print z;
+  } else {
+    print x;
+    print y;
+    print z;
+    print x;
+    print y;
+    print z;
+  }
+  print x;
+  print y;
+  print z;
+  y := 3;
+  print x;
+  print y;
+  print z;
+} else {
+  print x;
+  print y;
+  print z;
+  z := 2;
+  print x;
+  print y;
+  print z;
+  if ((x = 0)) {
+    print x;
+    print y;
+    print z;
+    x := 3;
+    print x;
+    print y;
+    print z;
+  } else {
+    print x;
+    print y;
+    print z;
+    x := 4;
+    print x;
+    print y;
+    print z;
+  }
+  print x;
+  print y;
+  print z;
+  y := 1;
+  print x;
+  print y;
+  print z;
+}
+print x;
+print y;
+print z;
+z := (x * (y * z));
+print x;
+print y;
+print z;
+

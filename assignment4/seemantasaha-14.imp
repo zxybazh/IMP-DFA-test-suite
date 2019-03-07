@@ -1,0 +1,12 @@
+decl x in
+  x := {0,1};
+
+  print x;
+  
+  if (x = 0) {
+  	x := 1;
+  } else {
+  	x := 2;
+  }
+
+  print x;

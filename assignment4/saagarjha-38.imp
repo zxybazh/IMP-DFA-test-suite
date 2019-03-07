@@ -1,0 +1,8 @@
+decl x, y in
+x := 0;
+if (x) {
+	y := 2;
+} else {
+	y := 3;
+}
+print y;

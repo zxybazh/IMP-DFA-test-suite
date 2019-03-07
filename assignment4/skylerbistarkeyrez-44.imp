@@ -1,0 +1,14 @@
+decl x in
+x := 4;
+print x;
+
+while (0 < x) {
+    if ({0,1}) {
+        x := x - 1;
+        print x;
+    }
+    else {
+        x := x - 2;
+        print x+1;
+    }
+}

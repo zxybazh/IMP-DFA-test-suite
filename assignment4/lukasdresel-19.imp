@@ -1,0 +1,13 @@
+decl x in
+print x;
+if ({0, 1}) {
+  print x;
+  x := 1;
+  print x;
+} else {
+  print x;
+  x := 1;
+  print x;
+}
+print x;
+

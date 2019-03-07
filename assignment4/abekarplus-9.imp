@@ -1,0 +1,10 @@
+decl x, y, z in
+	if ({0,1}) {
+		x := 2;
+		y := 3;
+	} else {
+		x := 3;
+		y := 2;
+	}
+	z := x+y;
+	print z;

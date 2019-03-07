@@ -1,0 +1,12 @@
+decl x, y in
+x := {0, 6};
+y := {2, 8};
+
+if(x < y){
+ x := x + 1;
+}
+else{
+ x := x + 3;
+}
+print x; 
+print y;

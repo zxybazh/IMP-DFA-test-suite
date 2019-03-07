@@ -1,0 +1,26 @@
+decl x, y, z, result in
+
+while (x < 10) {
+    print x;
+    y := 0;
+    while (y < 5) {
+        print y;
+        z := 0;
+        while (z < 4) {
+            print z;
+            result := result + (x * y * z);
+            print result;
+            z := z + 1;
+            print z;
+        }
+        y := y + 1;
+        print y;
+    }
+    x := x + 1;
+    print x;
+}
+
+print x;
+print y;
+print z;
+print result;

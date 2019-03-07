@@ -1,0 +1,20 @@
+decl x in 
+
+x := 0 <= 2;
+print x;
+x := 0 <= 1;
+print x;
+x := 1 <= 3;
+print x;
+x := 1 <= 0;
+print x;
+x := {0, 1} <= 0; // T <= E
+print x;
+x := {0, 1} <= 1; // T <= O
+print x;
+x := 0 <= {0, 1}; // E <= T
+print x;
+x := 1 <= {0, 1}; // O <= T
+print x;
+x := {0, 1} <= {0, 1}; // T <= T
+print x;

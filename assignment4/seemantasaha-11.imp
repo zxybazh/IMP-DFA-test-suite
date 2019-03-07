@@ -1,0 +1,14 @@
+decl x,y,z in
+  if (x = 0) {
+    if (y = 0) {
+      if (z = 0) {
+        z := 1;
+      }
+      y := 2;
+    }
+    x := 3;
+  }
+
+  print x;
+  print y;
+  print z;

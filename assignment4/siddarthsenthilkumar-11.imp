@@ -1,0 +1,7 @@
+decl x, y in
+if({0, 1}) {
+  x := 7;
+  y := 8;
+}
+print x;
+print y;

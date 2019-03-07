@@ -1,0 +1,34 @@
+decl x in
+
+// Even: Unknown
+while (2 * x) {
+	x := 1;
+}
+print x;
+
+// E=O: Always false conditional
+x := 0;
+while (x = 1) {
+	x := 1;
+}
+print x;
+
+// E=E: Unknown
+x := 0;
+while (x = 0) {
+	x := 1;
+}
+print x;
+
+// Fake always true conditional
+while (x = x) {
+	x := 1;
+}
+print x;
+
+// Odd: Always true conditional
+x := 1;
+while (x) {
+	x := 3;
+	print x;
+}

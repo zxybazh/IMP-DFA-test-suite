@@ -1,0 +1,4 @@
+decl y in
+print(y);
+y:= 3;
+print(y);

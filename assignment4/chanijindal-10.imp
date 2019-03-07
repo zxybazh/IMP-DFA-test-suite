@@ -1,0 +1,7 @@
+decl x, y in
+x := {1, 5};
+print(x);
+y := {0, 1};
+print y;
+print x + y;
+

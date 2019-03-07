@@ -1,0 +1,12 @@
+decl x, y in
+x := {0, 2};
+
+if (x) {
+    while(x) {
+        print x;
+        x := x - 1;
+    }
+}
+else {
+    print x + 20;
+}

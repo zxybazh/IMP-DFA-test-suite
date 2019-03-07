@@ -1,0 +1,9 @@
+decl x, y in
+	x := 5;
+	while (y < x) {
+		y := y+1;
+		if (y = 0) {
+			print y;
+		}
+	}
+
