@@ -2,4 +2,3 @@ x : {alloc4, alloc6}
 y : {alloc6}
 Alloc4 : {}
 Alloc6 : {}
-
