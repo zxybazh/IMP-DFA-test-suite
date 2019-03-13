@@ -1,0 +1,16 @@
+decl r, root, rr, rrl, rrlr in 
+
+rrlr := new 3;
+rrlr.3 := 4;
+rrl := new 3;
+rrl.1 := rrlr;
+rrl.3 := 3;
+rr := new 3;
+rr.1 := rrl;
+rr.3 := 2;
+r := new 3;
+r.1 := rr;
+r.3 := 1;
+root := new 3;
+root.1 := r;
+root.3 := 0;

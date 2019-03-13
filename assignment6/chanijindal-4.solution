@@ -1,0 +1,6 @@
+x: {alloc5}
+y: {alloc7}
+z: {alloc7}
+Alloc5: {alloc7}
+Alloc7: {alloc7}
+

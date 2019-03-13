@@ -1,0 +1,12 @@
+decl a, b, c, d, w, x, y, z in
+a := 42;
+b := a + 6;
+c := new 29;
+d := new 37;
+
+d.5 := new 14;
+
+w := b;
+x := c;
+y := c.12;
+z := d.5;

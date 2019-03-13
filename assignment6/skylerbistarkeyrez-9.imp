@@ -1,0 +1,6 @@
+decl x, y in
+x := new 1;
+y := new 2;
+x := y;
+y.1 := new 3;
+x := y.1;

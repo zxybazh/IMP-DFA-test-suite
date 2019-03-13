@@ -1,0 +1,4 @@
+x : {alloc4, alloc6}
+Alloc4 : {alloc9}
+Alloc6 : {alloc9}
+Alloc9 : {}

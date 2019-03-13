@@ -1,0 +1,10 @@
+r : {alloc28}
+root : {alloc36}
+rr : {alloc20}
+rrl : {alloc12}
+rrlr : {alloc7}
+Alloc12 : {alloc7}
+Alloc20 : {alloc12}
+Alloc28 : {alloc20}
+Alloc36 : {alloc28}
+Alloc7 : {}

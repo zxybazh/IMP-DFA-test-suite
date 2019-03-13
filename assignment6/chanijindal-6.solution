@@ -1,0 +1,4 @@
+x: {alloc5}
+y: {alloc7}
+Alloc5: {alloc5}
+Alloc7: {}

@@ -1,0 +1,12 @@
+l : {alloc13}
+ll : {alloc8}
+r : {alloc31}
+rl : {alloc21}
+root : {alloc42}
+rr : {alloc26}
+Alloc13 : {alloc8}
+Alloc21 : {}
+Alloc26 : {}
+Alloc31 : {alloc21, alloc26}
+Alloc42 : {alloc13, alloc31}
+Alloc8 : {}

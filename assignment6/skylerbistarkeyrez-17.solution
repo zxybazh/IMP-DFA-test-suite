@@ -1,0 +1,7 @@
+x : {alloc19, alloc5}
+y : {alloc21, alloc7}
+z : {alloc19, alloc21, alloc5, alloc7}
+Alloc19 : {}
+Alloc21 : {}
+Alloc5 : {}
+Alloc7 : {}

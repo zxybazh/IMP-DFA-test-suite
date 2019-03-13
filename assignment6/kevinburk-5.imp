@@ -1,0 +1,4 @@
+decl x in
+x := new 1;
+print x;
+x := new 1;
