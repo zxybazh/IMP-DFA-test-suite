@@ -1,0 +1,10 @@
+decl x in
+x := 2;
+if (x < 3){
+	x := x + 3;
+}
+else{
+	x := x * 2;
+	print x;
+}
+print x;

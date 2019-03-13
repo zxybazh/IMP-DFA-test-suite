@@ -1,0 +1,9 @@
+decl x,y,z,w in
+x := 3;
+y := 2;
+w := {3,2};
+z := x * y + w - y;
+print x;
+print y;
+print w;
+print z;

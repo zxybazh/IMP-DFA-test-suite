@@ -1,0 +1,7 @@
+decl x in
+x := 5;
+while (1 <= x) {
+	x := x - 1;
+	print x;
+}
+print x;
