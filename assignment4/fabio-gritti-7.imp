@@ -1,0 +1,3 @@
+decl y in
+y := {2, 1, 0};
+print y;

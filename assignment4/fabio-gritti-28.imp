@@ -1,0 +1,26 @@
+decl x, y, z, w in
+x := 1;
+y := 1;
+z := x = y;
+z := z + 1;
+w := 0;
+print x;
+print y;
+print z;
+print w;
+while (x <= z) {
+  x := y;
+  print x;
+  if ( x < {2,0}) {
+    x := 2;
+    y := 3;
+    print z;
+  }
+  else {
+    w := y + 3;
+    print w;
+  }
+ y := y + 1;
+}
+y := x + z / 2 + y;
+print y;

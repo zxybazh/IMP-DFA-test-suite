@@ -1,0 +1,3 @@
+decl y in
+y := 5 / 3;
+print y;
