@@ -1,0 +1,30 @@
+l : {alloc59}
+ll : {alloc27}
+lll : {alloc17}
+llr : {alloc22}
+lr : {alloc48}
+lrl : {alloc38}
+lrr : {alloc43}
+r : {alloc112}
+rl : {alloc80}
+rll : {alloc70}
+rlr : {alloc75}
+root : {alloc123}
+rr : {alloc101}
+rrl : {alloc91}
+rrr : {alloc96}
+Alloc101 : {alloc91, alloc96}
+Alloc112 : {alloc101, alloc80}
+Alloc123 : {alloc112, alloc59}
+Alloc17 : {}
+Alloc22 : {}
+Alloc27 : {alloc17, alloc22}
+Alloc38 : {}
+Alloc43 : {}
+Alloc48 : {alloc38, alloc43}
+Alloc59 : {alloc27, alloc48}
+Alloc70 : {}
+Alloc75 : {}
+Alloc80 : {alloc70, alloc75}
+Alloc91 : {}
+Alloc96 : {}

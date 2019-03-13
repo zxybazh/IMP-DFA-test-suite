@@ -1,0 +1,7 @@
+w : {alloc8}
+x : {alloc6}
+y : {alloc8}
+z : {alloc8}
+Alloc21 : {}
+Alloc6 : {alloc8}
+Alloc8 : {alloc21}

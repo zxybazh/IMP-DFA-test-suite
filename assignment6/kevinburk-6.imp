@@ -1,0 +1,5 @@
+decl x in
+x   := new 3;
+x.1 := new 1;
+x.2 := new 1;
+x.3 := new 1;

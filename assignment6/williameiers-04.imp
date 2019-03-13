@@ -1,0 +1,5 @@
+decl x, y, z, w in
+  x := new 2;
+  y := x;
+  w := x.1;
+  z := x.2;

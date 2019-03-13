@@ -1,0 +1,9 @@
+t : {alloc23, alloc8}
+x : {alloc6}
+y : {alloc10}
+z : {alloc12, alloc23, alloc8}
+Alloc10 : {alloc12, alloc23, alloc8}
+Alloc12 : {}
+Alloc23 : {}
+Alloc6 : {alloc23, alloc8}
+Alloc8 : {}

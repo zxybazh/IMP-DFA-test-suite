@@ -1,0 +1,4 @@
+x : {alloc12, alloc7}
+y : {alloc12, alloc7}
+Alloc12 : {}
+Alloc7 : {}

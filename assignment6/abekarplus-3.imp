@@ -1,0 +1,3 @@
+decl x, y in
+	x := new 1;
+

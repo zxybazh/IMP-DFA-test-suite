@@ -1,0 +1,5 @@
+decl x,y,z,w in
+x := new 6;
+y := new 8; 
+z := x;
+w := y;

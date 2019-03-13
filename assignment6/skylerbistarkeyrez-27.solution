@@ -1,0 +1,8 @@
+t1 : {alloc19}
+t2 : {alloc19}
+t3 : {alloc19}
+x : {alloc19, alloc8}
+y : {alloc19, alloc8}
+z : {alloc19, alloc8}
+Alloc19 : {alloc19}
+Alloc8 : {alloc19}
