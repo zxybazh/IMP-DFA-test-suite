@@ -1,4 +1,4 @@
-w : {alloc8}
+w : {alloc16, alloc8}
 x : {alloc6}
 y : {alloc16, alloc6, alloc8}
 z : {alloc16, alloc6, alloc8}

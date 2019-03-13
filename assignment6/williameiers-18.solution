@@ -1,8 +1,8 @@
-w : {alloc24, alloc8}
+w : {alloc16, alloc24, alloc8}
 x : {alloc6}
-y : {alloc24, alloc6, alloc8}
+y : {alloc16, alloc24, alloc6, alloc8}
 z : {alloc16, alloc24, alloc6, alloc8}
-Alloc1 : {alloc16, alloc24, alloc8}
-Alloc2 : {alloc16}
-Alloc3 : {}
-Alloc4 : {alloc16}
+Alloc16 : {alloc16}
+Alloc24 : {alloc16}
+Alloc6 : {alloc16, alloc24, alloc8}
+Alloc8 : {alloc16}

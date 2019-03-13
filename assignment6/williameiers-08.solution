@@ -1,4 +1,4 @@
 x : {alloc4}
-y : {alloc4, alloc9}
+y : {alloc9}
 Alloc4 : {}
 Alloc9 : {alloc4}
