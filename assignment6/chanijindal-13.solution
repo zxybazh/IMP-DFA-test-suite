@@ -1,7 +1,6 @@
-x: {alloc5}
-y: {alloc7}
-z: {}
-Alloc18: {}
-Alloc5: {alloc18, alloc7}
-Alloc7: {}
-
+x : {alloc5}
+y : {alloc7}
+z : {}
+Alloc18 : {}
+Alloc5 : {alloc18, alloc7}
+Alloc7 : {}

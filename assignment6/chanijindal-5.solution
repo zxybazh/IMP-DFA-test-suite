@@ -1,6 +1,6 @@
-x: {alloc5}
-y: {alloc7}
-z: {alloc9}
-Alloc5: {alloc9}
-Alloc7: {alloc5}
-Alloc9: {}
+x : {alloc5}
+y : {alloc7}
+z : {alloc9}
+Alloc5 : {alloc9}
+Alloc7 : {alloc5}
+Alloc9 : {}
