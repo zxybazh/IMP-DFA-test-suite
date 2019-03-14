@@ -1,0 +1,10 @@
+decl x, y, Alloc in
+x := 100;
+Alloc := new 10;
+while (x < 105)
+{
+    y := new 1;
+    Alloc.1 := y;
+    Alloc.2 := x;
+    x := x + 1;
+}

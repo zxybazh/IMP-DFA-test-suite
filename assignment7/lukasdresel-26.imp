@@ -1,0 +1,4 @@
+decl root in 
+
+root := new 3;
+root.3 := 5;

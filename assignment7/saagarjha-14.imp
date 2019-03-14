@@ -1,0 +1,10 @@
+decl w, x, y, z in
+w := new 1;
+x := new 2;
+y := new 3;
+z := new 4;
+w.1 := w;
+w.1 := x;
+x.2 := y;
+y.3 := z;
+

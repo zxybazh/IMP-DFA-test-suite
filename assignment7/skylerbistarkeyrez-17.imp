@@ -1,0 +1,16 @@
+decl x,y,z in
+
+x := new 1;
+y := new 2;
+
+while ({0,1}) {
+    if ({0,1}) {
+        z := x;
+    }
+    else {
+        z := y;
+    }
+}
+
+x := new 2;
+y := new 3;

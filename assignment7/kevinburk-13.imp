@@ -1,0 +1,4 @@
+decl x, y, z in
+x := 13;
+y := x;
+z := y;

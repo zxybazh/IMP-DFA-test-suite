@@ -1,0 +1,10 @@
+decl x, y in
+
+if ({0, 1})
+{
+    x := new 1;
+    y := new 1;
+}
+else
+{
+}

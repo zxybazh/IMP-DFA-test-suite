@@ -1,0 +1,6 @@
+decl x, y, z in
+x := 12;
+while({0, 1}) {
+  y := x;
+}
+z := x;

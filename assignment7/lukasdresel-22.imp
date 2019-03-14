@@ -1,0 +1,16 @@
+decl l, ll, lll, llll, root in 
+
+llll := new 3;
+llll.3 := 0;
+lll := new 3;
+lll.1 := llll;
+lll.3 := 1;
+ll := new 3;
+ll.1 := lll;
+ll.3 := 2;
+l := new 3;
+l.1 := ll;
+l.3 := 3;
+root := new 3;
+root.1 := l;
+root.3 := 4;
