@@ -1,0 +1,9 @@
+decl w, x, y, z in
+w := 42;
+if({0, 1}) {
+  x := w;
+}
+else {
+  y := w;
+}
+z := w;

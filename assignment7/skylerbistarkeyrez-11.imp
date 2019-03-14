@@ -1,0 +1,8 @@
+decl x in
+if ({0,1}) {
+    x := new 1;
+    x.1 := new 1;
+}
+else {
+    x := new 2;
+}

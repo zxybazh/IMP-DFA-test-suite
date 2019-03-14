@@ -1,0 +1,10 @@
+decl a,b,c,d,e in
+  a := new 1;
+  b := new 1;
+  a.1:= new 1;
+  b.1 := new 1;
+  c := a;
+  d := c.1;
+  b.1 := d;
+  d.1 := c;
+  e := d.1;

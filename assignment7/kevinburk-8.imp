@@ -1,0 +1,4 @@
+decl x, y in
+x := 108;
+print 9001;
+y := x;

@@ -1,0 +1,4 @@
+decl t, x, y in
+t := x;
+x := y;
+y := t;

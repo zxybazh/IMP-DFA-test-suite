@@ -1,0 +1,9 @@
+decl x in
+	if (0) {
+		x := new 1;
+	} else {
+		while (0) {
+			x := new 1;
+		}
+	}
+
