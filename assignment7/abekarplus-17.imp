@@ -1,8 +1,0 @@
-decl x, y, z in
-	x := new 1;
-	y := new 1;
-	z := x.1;
-	z.1 := new 1;
-	y := z.1;
-	y.1 := x;
-
