@@ -1,3 +1,0 @@
-decl alloc1, alloc6, Alloc1, Alloc6 in
-alloc1 := new 1;
-Alloc6 := alloc1;
