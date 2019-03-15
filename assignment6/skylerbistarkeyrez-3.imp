@@ -1,4 +1,4 @@
-decl x in
+decl x, y in
 x := new 2;
 x.1 := new 1;
 y := x.1;
