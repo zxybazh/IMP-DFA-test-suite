@@ -1,5 +1,0 @@
-decl alloc5, Alloc7, ref in
-	alloc5 := new 1;
-	Alloc7 := new 1;
-	ref := new 1;
-
