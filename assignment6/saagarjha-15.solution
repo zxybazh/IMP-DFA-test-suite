@@ -1,6 +1,0 @@
-x : {alloc4}
-y : {alloc6}
-Alloc10 : {}
-Alloc4 : {alloc10, alloc8}
-Alloc6 : {alloc10, alloc8}
-Alloc8 : {}
