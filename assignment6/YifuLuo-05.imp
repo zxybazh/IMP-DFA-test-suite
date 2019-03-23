@@ -1,2 +1,0 @@
-  decl x, y in
-  x.1 := y; 
